@@ -1,4 +1,4 @@
-//Comment test1
+//Comment
 
 #include<stdio.h>
 #include<stdlib.h>
