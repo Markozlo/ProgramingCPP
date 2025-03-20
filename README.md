@@ -1,1 +1,2 @@
-Empty folder
+All files copied
+
