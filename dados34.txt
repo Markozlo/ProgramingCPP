@@ -1,0 +1,5 @@
+2,Maria da Silva,8.5,4.8
+13,Joao de Almeida,7.5,6.1
+15,Pedro de Souza,5.0,4.4
+21,Jose de Carvalho,7.2,7.1
+30,Silvia Santos,5.9,6.2
